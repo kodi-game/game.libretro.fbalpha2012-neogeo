@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="game.libretro.fbalpha2012-neogeo"
+		name="Arcade (FB Alpha 2012 Neo Geo)"
+		version="0.2.97.1"
+		provider-name="Team FB Alpha">
+	<requires>
+		<import addon="game.libretro" version="1.0.0"/>
+	</requires>
+	<extension point="kodi.gameclient"
+			library_@PLATFORM@="@LIBRARY_FILENAME@">
+		<platforms></platforms>
+		<extensions>iso|zip|7z</extensions>
+		<supports_vfs>false</supports_vfs>
+		<supports_standalone>false</supports_standalone>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">Arcade (FB Alpha 2012 Neo Geo) v0.2.97.29</summary>
+		<description lang="en_GB">Supported files: .iso, .zip, .7z</description>
+		<license>Non-commercial</license>
+		<platform>@PLATFORM@</platform>
+		<source>https://github.com/kodi-game/game.libretro.fbalpha2012-neogeo</source>
+	</extension>
+</addon>
