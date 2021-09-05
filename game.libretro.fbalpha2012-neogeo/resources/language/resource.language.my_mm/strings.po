@@ -23,4 +23,3 @@ msgstr ""
 msgctxt "Addon Description"
 msgid "A port of FinalBurn Alpha 2012 to Libretro. This is the standalone core for Neo Geo."
 msgstr ""
-
