@@ -24,6 +24,7 @@
 		<summary lang="en_GB">Arcade (FB Alpha 2012 Neo Geo) v0.2.97.29</summary>
 		<description lang="da_DK">En port af FinalBurn Alpha 2012 til Libretro. Dette er den selvstændige kerne til Neo Geo.</description>
 		<description lang="en_GB">A port of FinalBurn Alpha 2012 to Libretro. This is the standalone core for Neo Geo.</description>
+		<description lang="es_ES">Una adaptación de FinalBurn Alpha 2012 a Libretro. Este es el núcleo independiente para Neo Geo.</description>
 		<description lang="it_IT">Un porting di FinalBurn Alpha 2012 su Libretro. Questo è il nucleo autonomo per Neo Geo.</description>
 		<description lang="ko_KR">FinalBurn Alpha 2012를 Libretro로 이식. Neo Geo의 독립형 코어입니다.</description>
 		<description lang="zh_CN">FinalBurn Alpha 2012 的 Libretro 实现。这是 Neo Geo 的独立核心。</description>
