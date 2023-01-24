@@ -13,7 +13,7 @@ Non-commercial
 
 ### Icon
 
-![Icon](game.libretro.fbalpha2012-neogeo/resources/icon.png)
+![Arcade (FB Alpha 2012 Neo Geo) icon](game.libretro.fbalpha2012-neogeo/resources/icon.png)
 
 ### Fanart
 
