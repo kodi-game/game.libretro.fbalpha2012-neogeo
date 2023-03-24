@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
 msgctxt "Addon Summary"
-msgid "Arcade (FB Alpha 2012 Neo Geo) v0.2.97.29"
+msgid "Arcade (FB Alpha 2012 Neo Geo)"
 msgstr ""
 
 msgctxt "Addon Description"
