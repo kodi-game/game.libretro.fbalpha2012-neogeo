@@ -21,6 +21,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="da_DK">Arcade (FB Alpha 2012 Neo Geo)</summary>
 		<summary lang="en_GB">Arcade (FB Alpha 2012 Neo Geo)</summary>
 		<summary lang="es_ES">Arcade (FinalBurn Alpha 2012 Neo Geo)</summary>
 		<description lang="da_DK">En port af FinalBurn Alpha 2012 til Libretro. Dette er den selvstændige kerne til Neo Geo.</description>
