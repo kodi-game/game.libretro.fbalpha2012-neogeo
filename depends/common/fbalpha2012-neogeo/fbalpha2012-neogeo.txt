@@ -1,1 +1,1 @@
-fbalpha2012-neogeo https://github.com/libretro/fbalpha2012_neogeo/archive/a395b4e726831c5a285dd36a908a14e789df634f.tar.gz
+fbalpha2012-neogeo https://github.com/libretro/fbalpha2012_neogeo/archive/fa3bf50bae471a960f7ed1d7a9fea2191cb345fb.tar.gz
