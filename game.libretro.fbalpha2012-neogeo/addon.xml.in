@@ -24,6 +24,7 @@
 		<summary lang="da_DK">Arcade (FB Alpha 2012 Neo Geo)</summary>
 		<summary lang="en_GB">Arcade (FB Alpha 2012 Neo Geo)</summary>
 		<summary lang="es_ES">Arcade (FinalBurn Alpha 2012 Neo Geo)</summary>
+		<summary lang="ga">Arcade (FB Alpha 2012 Neo Geo)</summary>
 		<summary lang="it_IT">Arcade (FB Alpha 2012 Neo Geo)</summary>
 		<summary lang="ko_KR">아케이드 (FB 알파 2012 Neo Geo)</summary>
 		<summary lang="ru_RU">Arcade (FB Alpha 2012 Neo Geo)</summary>
@@ -33,6 +34,7 @@
 		<description lang="de_DE">Eine Portierung von FinalBurn Alpha 2012 auf Libretro. Dies ist der eigenständige Core für Neo Geo.</description>
 		<description lang="en_GB">A port of FinalBurn Alpha 2012 to Libretro. This is the standalone core for Neo Geo.</description>
 		<description lang="es_ES">Una adaptación de FinalBurn Alpha 2012 a Libretro. Este es el núcleo independiente para Neo Geo.</description>
+		<description lang="ga">Port de FinalBurn Alpha 2012 chuig Libretro. Seo croílár neamhspleách Neo Geo.</description>
 		<description lang="it_IT">Un porting di FinalBurn Alpha 2012 su Libretro. Questo è il core autonomo per Neo Geo.</description>
 		<description lang="ko_KR">FinalBurn Alpha 2012를 Libretro로 이식. Neo Geo의 독립형 코어입니다.</description>
 		<description lang="ru_RU">Порт FinalBurn Alpha 2012 для Libretro. Это автономное ядро для Neo Geo.</description>
